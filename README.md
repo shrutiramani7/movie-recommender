@@ -1,6 +1,8 @@
 # 🎬 Movie Recommender (Content-Based, Streamlit)
 
-A simple, fast movie recommender that suggests **Top-5 similar films** using content features (genres, cast, director, overview text) and **cosine similarity**. Built with **Streamlit** and uses **TMDB** for posters.
+This interactive app suggests movies that are most similar to the one you choose. It analyzes each film’s genre, cast, director, and short summary to find the closest matches and shows their posters instantly.
+The app uses content-based filtering, meaning it focuses on movie attributes instead of user ratings or watch history.
+Built with **Python** and **Streamlit**, this demo runs inside a **Docker** container and uses the TMDB to display movie posters.
 
 ---
 
