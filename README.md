@@ -2,10 +2,6 @@
 
 A simple, fast movie recommender that suggests **Top-5 similar films** using content features (genres, cast, director, overview text) and **cosine similarity**. Built with **Streamlit** and uses **TMDB** for posters.
 
-> 🔗 **Live Demo**: _(optional – add link if/when you deploy)_
->
-> 📓 **Notebook (EDA/Build)**: _(optional – add Kaggle/GitHub link)_
-
 ---
 
 ## ✨ What it does
@@ -26,8 +22,4 @@ A simple, fast movie recommender that suggests **Top-5 similar films** using con
 > Cosine similarity compares **angles**, so two descriptions with the same mix of terms match even if one is longer.
 
 ---
-
-## 🗂️ Repository structure
-
-> Your repo may look like this. If your artifacts are in the project root, that’s fine—just keep paths in `app.py` consistent.
 
