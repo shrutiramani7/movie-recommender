@@ -4,6 +4,7 @@ This interactive app suggests movies that are most similar to the one you choose
 The app uses content-based filtering, meaning it focuses on movie attributes instead of user ratings or watch history.
 Built with **Python** and **Streamlit**, this demo runs inside a **Docker** container and uses the TMDB to display movie posters.
 
+![App Demo](movie-demo.gif)
 ---
 
 ## ✨ What it does
